@@ -10,6 +10,7 @@ public class SpringMain {
 		System.out.println("Context"+context);
 		HelloWorld hw= (HelloWorld) context.getBean("greeting");
 		System.out.println(hw);
+		System.out.println(hw.getMessage());
 		
 		hw.setMessage("Hello JBDL60");
 		

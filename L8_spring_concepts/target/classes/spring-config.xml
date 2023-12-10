@@ -2,7 +2,7 @@
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
-	<bean id="greeting" class="l8_spring_concepts.HelloWorld" scope="prototype" init-method="init">
+	<bean id="greeting" name="helloworld" class="l8_spring_concepts.HelloWorld" init-method="init" destroy-method="destroy">
 		<property name="message" value="Hello from props"></property>
 	</bean>
 	<bean id="emp" class="l8_spring_concepts.Employee"></bean>
