@@ -52,10 +52,12 @@
 			<item value="com.surbhi.springdata"/>
 		</list>
 		<list key="name">
+			<item value="L9_JDBC_Maven"/>
 			<item value="L10_Hibernate_Introduction"/>
 			<item value="productData"/>
 		</list>
 		<list key="artifactId">
+			<item value="L9_JDBC_Maven"/>
 			<item value="l10_hibernate_introduction"/>
 			<item value="productdata"/>
 			<item value="L10_Hibernate_Introduction"/>

@@ -28,8 +28,12 @@
     <fullyQualifiedTypeName name="l8_spring_concepts.HelloWorld"/>
     <fullyQualifiedTypeName name="java.net.ConnectException"/>
     <fullyQualifiedTypeName name="com.surbhi.springdata.product.infra.MySQLConnection"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
-    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
     <fullyQualifiedTypeName name="javax.security.auth.Destroyable"/>
+    <fullyQualifiedTypeName name="ConnectionMain"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
 </qualifiedTypeNameHistroy>
