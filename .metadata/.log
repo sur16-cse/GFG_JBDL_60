@@ -527,3 +527,12 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2023-12-11 18:22:56.779
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-12-11 18:30:19.888
+!MESSAGE Classpath changed for project: l11_hibernate_mapping
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-12-11 18:30:20.120
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2023-12-11 18:30:20.120
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
