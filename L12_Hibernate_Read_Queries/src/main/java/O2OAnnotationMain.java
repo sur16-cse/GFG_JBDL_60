@@ -39,7 +39,6 @@ public class O2OAnnotationMain {
 		for (Customer customer1 : customerList) {
 			System.out.println(customer);
 		}
-
 		tx2.commit();
 
 		// query data on the basis of id
@@ -48,7 +47,6 @@ public class O2OAnnotationMain {
 		query1.setParameter("id", 1);
 		Customer cus = (Customer) query1.uniqueResult();
 		System.out.println(cus);
-
 		tx3.commit();
 
 		// query data on the basis of id
@@ -57,7 +55,6 @@ public class O2OAnnotationMain {
 		query2.setParameter("id", 4);
 		int result = query2.executeUpdate();
 		System.out.println("Deleted docs count: " + result);
-
 		tx4.commit();
 
 		// query data on the basis of id
@@ -67,8 +64,8 @@ public class O2OAnnotationMain {
 		query3.setParameter("name", "Surbhi Kumari");
 		result = query3.executeUpdate();
 		System.out.println("Updated docs count: " + result);
-
 		tx5.commit();
+		
 		s.close();
 		sf.close();
 	}
