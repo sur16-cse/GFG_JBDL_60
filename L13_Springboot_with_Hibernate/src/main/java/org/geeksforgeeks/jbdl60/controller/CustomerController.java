@@ -32,4 +32,6 @@ public class CustomerController {
 	public GetCustomerResponseModel getEmployeeByID(@PathVariable int id) {
 		return customerService.getEmployeeByID(id);
 	}
+	
+	//add all customers
 }
