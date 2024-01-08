@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L12_hibernate_mapping"/>
 			<item value="/Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L8_spring_concepts/src/main/resources/spring-config.xml"/>
 			<item value="/Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L8_spring_concepts/src/main/java/l8_spring_concepts/HelloWorld.java"/>
 			<item value="/Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/Maven"/>
@@ -52,11 +53,13 @@
 			<item value="com.surbhi.springdata"/>
 		</list>
 		<list key="name">
+			<item value="L12_Hibernate_Read_Queries"/>
 			<item value="L9_JDBC_Maven"/>
 			<item value="L10_Hibernate_Introduction"/>
 			<item value="productData"/>
 		</list>
 		<list key="artifactId">
+			<item value="L12_Hibernate_Read_Queries"/>
 			<item value="L9_JDBC_Maven"/>
 			<item value="l10_hibernate_introduction"/>
 			<item value="productdata"/>
