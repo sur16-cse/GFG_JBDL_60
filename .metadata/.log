@@ -10383,3 +10383,12 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-10 00:23:02.240
+!MESSAGE Classpath changed for project: L14_SB_with_AOP
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-10 00:23:02.241
+!MESSAGE Boot project ADDED: L14_SB_with_AOP
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-10 00:23:02.640
+!MESSAGE Classpath changed for project: L14_SB_with_AOP
