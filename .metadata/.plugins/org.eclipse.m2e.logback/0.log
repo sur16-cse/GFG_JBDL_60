@@ -11124,3 +11124,21 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.alipay.an
 2024-01-19 00:26:18,600 [Worker-691: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2024-01-19 00:26:18,606 [Worker-691: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
 2024-01-19 00:26:18,607 [Worker-691: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L15_Springboot_With_Redis/src/test/resources
+2024-01-19 00:53:59,155 [Worker-705: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geeksforgeeks.jbdl60:L15_Springboot_With_Redis_MySQL:0.0.1-SNAPSHOT @ /Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L15_Springboot_With_Redis_MySQL/pom.xml.
+2024-01-19 00:53:59,421 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /L15_Springboot_With_Redis_MySQL/src/main/java
+2024-01-19 00:53:59,421 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/main/resources
+2024-01-19 00:53:59,422 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/main/resources
+2024-01-19 00:53:59,422 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /L15_Springboot_With_Redis_MySQL/src/test/java
+2024-01-19 00:53:59,422 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/test/resources
+2024-01-19 00:53:59,539 [Worker-705: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2024-01-19 00:53:59,539 [Worker-705: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-19 00:53:59,594 [Worker-705: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.geeksforgeeks.jbdl60:L15_Springboot_With_Redis_MySQL:0.0.1-SNAPSHOT @ /Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L15_Springboot_With_Redis_MySQL/pom.xml.
+2024-01-19 00:53:59,707 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /L15_Springboot_With_Redis_MySQL/src/main/java
+2024-01-19 00:53:59,707 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/main/resources
+2024-01-19 00:53:59,707 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/main/resources
+2024-01-19 00:53:59,707 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /L15_Springboot_With_Redis_MySQL/src/test/java
+2024-01-19 00:53:59,707 [Worker-705: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /L15_Springboot_With_Redis_MySQL/src/test/resources
+2024-01-19 00:53:59,807 [Worker-705: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2024-01-19 00:54:00,055 [Worker-708: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-01-19 00:54:00,062 [Worker-708: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-01-19 00:54:00,063 [Worker-708: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/surbhiks/eclipse-workspace/JavaGFG_JBDL60/L15_Springboot_With_Redis_MySQL/src/test/resources
